@@ -19,7 +19,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Andrei, an Information Systems student from Brazil 🇧🇷<br><br>- I’m working as a Data Engineer<br>- I'm currently learning Python and SQL<br>- In my free time I listen to music</p>
+<p align="left">I'm Andrei, an Information Systems student from Brazil 🇧🇷<br><br>- I’m working as a Data Analytics Engineer<br>- I'm currently learning Python and SQL<br>- In my free time I listen to music</p>
 
 ###
 
