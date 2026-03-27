@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left"> <br>Linguagens & Bibliotecas: Python (Pandas, NumPy, PySpark), SQL, PHP<br><br>Cloud: GCP, AWS<br><br>Orquestração: Apache Airflow<br><br>Now learning: dbt (Data Build Tool)<br><br>Ferramentas: Git/GitHub, Docker, VS Code.  </p>
+<p align="left"> Linguagens & Bibliotecas: Python (Pandas, NumPy, PySpark), SQL, PHP<br><br>Cloud: GCP, AWS<br><br>Orquestração: Apache Airflow<br><br>Now learning: dbt (Data Build Tool)<br><br>Ferramentas: Git/GitHub, Docker, VS Code.  </p>
 
 ###
 
