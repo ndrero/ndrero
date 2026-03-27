@@ -2,11 +2,13 @@
 
 ###
 
+<p align="left">Engenheiro de Dados | Python, GCP & Airflow<br><br>Sou um engenheiro de dados focado na construção de pipelines escaláveis e na integridade do ciclo de vida dos dados. Atualmente, dedico meus estudos à modernização de arquiteturas de dados (Modern Data Stack), com ênfase em modelagem transformacional e automação de processos em nuvem.<br> </p>
+  
 <h4 align="left">Tech Stack</h4>
 
 ###
 
-<p align="left">Engenheiro de Dados | Python, GCP & Airflow<br><br>Sou um engenheiro de dados focado na construção de pipelines escaláveis e na integridade do ciclo de vida dos dados. Atualmente, dedico meus estudos à modernização de arquiteturas de dados (Modern Data Stack), com ênfase em modelagem transformacional e automação de processos em nuvem.<br><br>Linguagens & Bibliotecas: Python (Pandas, NumPy, PySpark), SQL, PHP<br><br>Cloud: GCP, AWS<br><br>Orquestração: Apache Airflow<br><br>Now learning: dbt (Data Build Tool)<br><br>Ferramentas: Git/GitHub, Docker, VS Code.</p>
+<p align="left"> <br>Linguagens & Bibliotecas: Python (Pandas, NumPy, PySpark), SQL, PHP<br><br>Cloud: GCP, AWS<br><br>Orquestração: Apache Airflow<br><br>Now learning: dbt (Data Build Tool)<br><br>Ferramentas: Git/GitHub, Docker, VS Code.  </p>
 
 ###
 
